@@ -51,7 +51,8 @@
       "options": {
         "buildTarget": "client:build",
         "hmr": true,
-        "proxyConfig": "client/proxy.conf.json"
+        "proxyConfig": "client/proxy.conf.json",
+        "port": 3000
       },
       "configurations": {
         "development": {
